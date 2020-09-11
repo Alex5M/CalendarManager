@@ -1,0 +1,15 @@
+# Secrets
+**/credentials/**
+
+# Personal Settings
+**/.notebook
+
+# Generated Code
+**/build
+**/dist
+**/node_modules
+**/bin
+**/obj
+
+# Logs
+**/*.log*
